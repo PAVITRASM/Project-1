@@ -2,6 +2,7 @@
 
 ## Learning Objectives
 
+this is a first project
 ### HTML Concepts:
 1. **Semantic HTML**: Use `<header>`, `<section>`, and `<footer>` tags
 2. **Images**: Add profile image using `<img>` with proper alt attribute
