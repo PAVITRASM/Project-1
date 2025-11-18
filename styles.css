@@ -1,0 +1,50 @@
+*{
+    
+    margin: 4%;
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+body{
+    background-color: blue;
+    height:100vh;
+}
+
+p{
+    text-align: center;
+    font-weight: 300;
+    background-color: white;
+}
+
+div{
+    padding: 2%;
+    background-color: white;
+    margin:20%;
+}
+
+h1{
+    background-color:white;
+}
+
+.image{
+     
+    border-radius:50%;
+    border: 2px solid blue;
+}
+
+.bio{
+    background-color: white;
+}
+
+.link{
+    background-color: white;
+    color: blue;
+    border-color: blue;
+    border-radius: 50px;
+}
+
+
+footer{ 
+    background-color: white;
+}
